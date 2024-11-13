@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManager", "TaskManager\TaskManager.csproj", "{8B6876B7-D383-497A-A1D2-CAAD4BD1A645}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HospitalManagementSystem", "HospitalManagementSystem\HospitalManagementSystem.csproj", "{D1BF55C6-6E15-41BC-956A-7EE490D07B4F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{8B6876B7-D383-497A-A1D2-CAAD4BD1A645}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B6876B7-D383-497A-A1D2-CAAD4BD1A645}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B6876B7-D383-497A-A1D2-CAAD4BD1A645}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1BF55C6-6E15-41BC-956A-7EE490D07B4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1BF55C6-6E15-41BC-956A-7EE490D07B4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1BF55C6-6E15-41BC-956A-7EE490D07B4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1BF55C6-6E15-41BC-956A-7EE490D07B4F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

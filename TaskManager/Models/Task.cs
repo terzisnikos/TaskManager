@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
+using Task = TaskManager.Models.Task; // Alias to resolve ambiguity
 
 namespace TaskManager.Models
 {
